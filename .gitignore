@@ -1,0 +1,13 @@
+.vscode
+.idea
+.DS_Store
+/node_modules/*
+config.js
+/manifest/*
+.sass-cache
+build.zip
+npm-debug.log
+target.js
+shells/pre.sh
+.history
+package-lock.json
